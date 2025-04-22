@@ -89,9 +89,9 @@ The tutorial is divided into different sections, each focusing on a specific are
 ### Running the Tutorial:
 1. Clone or download this repository to your PC.
 2. Open a **Command Prompt** window (CMD).
-3. Run the batch file (`tutorial.bat` or whatever the file is named) by navigating to the folder where the file is located and typing:
+3. Run the batch file (`MODMENU.BAT` or whatever the file is named) by navigating to the folder where the file is located and typing:
    ```bash
-   tutorial.bat
+   MODMENU.BAT
 4. Follow the on-screen instructions and choose the options that suit your needs.
 
 Converting AHK to EXE:
